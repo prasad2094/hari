@@ -1,0 +1,9 @@
+{
+	"name": "ADFpracticehub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1247e7e4-0423-43f8-bd85-cb624afafc11",
+		"tenantId": "adb53b4f-b05f-4dcb-a2e1-9111380568c3"
+	}
+}
