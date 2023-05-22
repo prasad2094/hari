@@ -1,0 +1,19 @@
+{
+	"name": "inputdataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "linkedservicehari",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "sampledb.txt",
+				"folderPath": "input",
+				"container": "adfdemo"
+			}
+		}
+	}
+}
