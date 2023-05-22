@@ -7,6 +7,12 @@
 		},
 		"linkedservicehari_connectionString": {
 			"value": ""
+		},
+		"linkedServicedeletelog_connectionString": {
+			"value": ""
+		},
+		"trigger2_properties_typeProperties_scope": {
+			"value": "/subscriptions/7427803d-97a5-4cb2-9973-974a20bf6aa5/resourceGroups/ADFspace/providers/Microsoft.Storage/storageAccounts/storagehariprasad"
 		}
 	}
 }
